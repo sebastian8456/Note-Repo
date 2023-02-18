@@ -4,4 +4,4 @@ These are some notes used for testing purposes. The notes are going to be upload
 
 Some elite text
 
-# Now mess something up and revert to previous commit
+# fixed
