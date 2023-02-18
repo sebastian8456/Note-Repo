@@ -3,3 +3,5 @@ These are some notes used for testing purposes. The notes are going to be upload
 # Add a new section for the notes in a branch then merge when ready.
 
 Some elite text
+
+# Now mess something up and revert to previous commit
